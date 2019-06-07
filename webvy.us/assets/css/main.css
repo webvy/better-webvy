@@ -1,5 +1,6 @@
 @import url ("font-awesome.min.css");
 @import url ("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url ("gistfile1.css");
 
 /* Insert weird comment about being a lazy dumb designer and you have the definition of Vy's work ethic when it comes to websites and their css files */
 
@@ -246,6 +247,9 @@ text-align: center;
 text-align: right;
 }
 
+#fix {
+	margin: auto;
+}
 /* Row */
 
 .row {
