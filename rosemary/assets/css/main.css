@@ -2358,6 +2358,49 @@
 				.box .image.featured:last-child img {
 					border-radius: 0 0 6px 6px;
 				}
+/*SVG for services and menus*/
+ 
+	.svg {
+        display: block;
+        width: 5em;
+        right: 0px;
+        padding: 10px;
+	}
+    
+/* center paragrpahs for services and menus */
+
+   .center {
+          text-align: center; 
+    }
+    
+/* div that makes each destination individual */
+
+   div.minimalistBlack {
+  border: 3px solid #ffffff;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+.divTable.minimalistBlack .divTableCell, .divTable.minimalistBlack .divTableHead {
+  border: 10px solid #FFFFFF;
+  padding: 5px 4px;
+}
+.divTable.minimalistBlack .divTableBody .divTableCell {
+  
+}
+.minimalistBlack .tableFootStyle {
+  
+}
+/* DivTable.com */
+.divTable{ display: table; }
+.divTableRow { display: table-row; }
+.divTableHeading { display: table-header-group;}
+.divTableCell, .divTableHead { display: table-cell;}
+.divTableHeading { display: table-header-group;}
+.divTableFoot { display: table-footer-group;}
+.divTableBody { display: table-row-group;}
+
+
 
 /* Icon */
 
